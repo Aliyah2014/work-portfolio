@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+  
+}
+
+/* Top navigation bar code*/
+
+.top-nav {
+  background-color: black ;
+  overflow: hidden;
+}
+
+
+/* styling for the links in the navigation bar*/
+
+.top-nav a {
+  float: left;
+  color: white;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.top-nav a:hover {
+  background-color: rgb(157, 165, 172);
+  color: black;
+}
+
+/* About me section*/
+
+
+.avatar-img {
+  display: inline-block;
+  margin-right: 20px;
+  float: right;
+}
+#about {
+  padding-top: 70px;
+  padding-left: 100px;
+  border: 20px;
+  margin: 20px;
+}
+.intro {
+  text-align: center;
+}
+
+#about-one {
+  padding-top: 50px;
+  
+}
+
+#about-me {
+  text-align: left;
+  
+}
+
+/* portfolio container- Work section*/
+
+.page-section {
+  display:;
+}
+
+
+
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
